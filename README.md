@@ -1,3 +1,10 @@
+⚠⚠⚠ End of Branch ⚠⚠⚠
+
+This repository was duplicated to https://github.com/rtcovidlive/rtlive-global and will no longer be updated!
+
+⚠⚠⚠ End of Branch ⚠⚠⚠
+
+
 # Country-agnostic modeling of R<sub>t</sub>
 This repository contains code for data processing and modeling of COVID-19 reproduction number R<sub>t</sub>
 using the model that was developed for https://rt.live.
